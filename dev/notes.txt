@@ -2,3 +2,5 @@ local repo einrichten
 minimize seite
 sass
 tailwind
+creat capitalizeFirstletter()
+create tests for it 

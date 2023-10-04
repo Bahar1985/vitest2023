@@ -1,2 +1,4 @@
 local repo einrichten
 minimize seite
+sass
+tailwind
